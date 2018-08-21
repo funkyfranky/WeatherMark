@@ -92,7 +92,7 @@ weathermark.markid=10000
 weathermark.meter2feet=3.28084
 weathermark.hPa2mmHg=0.7500615613030
 weathermark.hPa2inHg=0.0295299830714
-weathermark.mps2knots=0.539957
+weathermark.mps2knots=1.94384
 
 --- Enumerators.
 weathermark.imperial="imperial"
