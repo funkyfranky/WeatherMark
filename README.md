@@ -39,6 +39,7 @@ Features:
 * Type "weather report, alt 1000, metric" to get weather at that location at an altitude of 1000 meters independent of default unit system.
 * Type "weather set, metric" to set the default unit system to metric units.
 * Type "weather set, imperial" to set the default unit system to imperial units.
+* Type "weather laste" will create a LASTE report (A-10C, on GND level +0,+2000ft,+6000ft and +12000ft).
 
 ## NOTE
 * All keywords are **CaSE inSenSITvE**.
